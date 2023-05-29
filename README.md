@@ -1,6 +1,8 @@
 # EasyTUI
 This package provides utilities for creating terminal GUIs (TUIs).
 
+[Read the documentation](example.com)
+
 ## Classes
 ---
 ### Window
