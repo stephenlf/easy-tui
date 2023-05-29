@@ -1,7 +1,13 @@
-# EasyTUI
-This package provides utilities for creating terminal GUIs (TUIs).
+# Easy-X-TUI
 
-[Read the documentation](https://stephenlf.github.io/easy-tui/docs)
+_Easy, Cross-platform TUI_
+
+This lightweight package provides cross-platform utilities for creating terminal GUIs (TUIs).
+
+[Read the documentation](https://stephenlf.github.io/easy-tui)
+
+For lightweight GUIs, consider [easygui](https://pypi.org/project/easygui/).
+For advanced, semantic terminal handling, consider [curses](https://docs.python.org/3/library/curses.html) from the standard library.
 
 ## Classes
 ---
