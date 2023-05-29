@@ -1,7 +1,7 @@
 # EasyTUI
 This package provides utilities for creating terminal GUIs (TUIs).
 
-[Read the documentation](example.com)
+[Read the documentation](https://stephenlf.github.io/easy-tui/docs)
 
 ## Classes
 ---
